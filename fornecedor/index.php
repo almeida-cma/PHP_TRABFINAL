@@ -13,7 +13,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $fornecedor->celular = $_POST['celular'];
 
         if ($fornecedor->criar()) {
-            echo "<p>Fornecedor criado com sucesso.</p>";
+            // Redireciona de volta para a página index.php após a inserção bem-sucedida
+            header("Location: index.php");
+            exit();
         } else {
             echo "<p>Não foi possível criar o fornecedor.</p>";
         }
