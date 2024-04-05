@@ -5,6 +5,10 @@ Trabalho final em PHP com POO e PDO
 Responder o Kahoot abaixo utilizando seu nome:
 https://kahoot.it/challenge/05065639?challenge-id=b4c24f45-a0df-4a6b-892a-ebc36c43780b_1712287322143
 
+OU
+
+https://kahoot.it/challenge/09217938?challenge-id=b4c24f45-a0df-4a6b-892a-ebc36c43780b_1712342999022
+
 ------------------------------------------------------------------------------------------------------------------------
 DESAFIO:
 Utililizar a mesma estrutura do APP Fornecedores e adaptar para APP Usuários.
