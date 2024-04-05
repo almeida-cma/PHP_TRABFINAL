@@ -29,5 +29,10 @@ CREATE TABLE IF NOT EXISTS usuarios (
     nome VARCHAR(100) NOT NULL,
     telefone VARCHAR(15) NOT NULL -- Definido como VARCHAR(15) para armazenar números de telefone
 );
+------------------------------------------------------------------------------------------------------------------------
+Criar seu repositório como: PHP_TRABALHO_FINAL
+
+Preencher formulário com seu nome e link da pasta do seu repositório:
+https://almeida-cma.github.io/receber/
 
 BOM TRABALHO! Valor: 2,00.
